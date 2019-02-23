@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ui</string>
+    <string name="app_name">helpers</string>
     <string name="common_buttonOk">Ok</string>
     <string name="common_buttonCancel">Cancel</string>
     <string name="common_error">Error</string>
